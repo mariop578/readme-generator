@@ -6,6 +6,10 @@
 
 A terminal application to create readme files quick and easy.
 
+## Demo
+
+[Video Walkthrough](https://www.youtube.com/watch?v=bPp-lyaMgwY&ab_channel=jouniourpartida)
+
 ## Table of Contents
 
 - [Installation](#installation)
